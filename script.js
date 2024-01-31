@@ -42,6 +42,4 @@ btn.addEventListener("click", function () {
 
     var link = document.getElementById("wikipedia");
     window.location.href = link.href;
-
-    // window.open(document.getElementById("wikipedia").getAttribute("href"), "_blank");
 })
